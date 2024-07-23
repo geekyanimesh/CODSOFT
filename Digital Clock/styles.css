@@ -1,0 +1,15 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
+
+
+#digital-clock {
+  background-color: #c766ff;
+  width: 70%;
+  margin: auto;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  font-family: 'Times New Roman', sans-serif;
+  font-size: 100px;
+  text-align: center;
+  box-shadow: 0 4px 8px 0 rgba(210, 13, 13, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
